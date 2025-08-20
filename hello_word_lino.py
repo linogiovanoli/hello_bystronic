@@ -2,7 +2,7 @@ import streamlit as st
 import matplotlib.pyplot as plt
 import numpy as np
 
-st.title("Hello World Lino mit Matplotlib & Streamlit")
+st.title("Hello World LinoGi mit Matplotlib & Streamlit")
 
 diagramm = st.selectbox(
     "Wähle ein Diagramm aus:",
