@@ -4,6 +4,8 @@ import numpy as np
 
 st.title("Gaußsche Verteilung interaktiv")
 
+st.info("Starte dieses Programm mit 'streamlit run Haus1' im Terminal.")
+
 # Schieberegler für Mittelwert und Standardabweichung
 mu = st.slider("Mittelwert (μ)", min_value=-10.0, max_value=10.0, value=0.0, step=0.1)
 sigma = st.slider("Standardabweichung (σ)", min_value=0.1, max_value=10.0, value=1.0, step=0.1)
