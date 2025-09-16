@@ -139,3 +139,4 @@ Mit Optionen:
 - **Test-Fehler**: Option zum Überspringen mit `--skip-tests`
 - **Linting-Probleme**: Automatische Fixes wo möglich, sonst Abbruch
 - **Merge-Konflikte**: Warnung und Anleitung zur Auflösung
+  
