@@ -195,7 +195,7 @@ Siehe `docs/commit-guide.md` für Details zum Git-Commit-System.
 
 Für neue Entwickler steht ein automatisiertes Setup-Script zur Verfügung:
 
-#### Windows PowerShell Setup
+#### Windows PowerShell Setup (installien von Pthon auf neuem Computer)
 
 ```powershell
 # Als Administrator ausführen:
